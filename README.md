@@ -6,7 +6,7 @@ Overview
 
 The Bank Management System is a backend RESTful web application developed using Spring Boot that enables efficient management of banks, customer accounts, and branch addresses. The application provides APIs for performing banking operations such as account creation, account management, balance handling, and bank information management.
 
-This project demonstrates the implementation of Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, REST APIs, and layered architecture following industry-standard development practices.
+This project demonstrates the implementation of Spring Boot, Spring Data JPA, Hibernate, MySQL, PostgreSQL, REST APIs, and layered architecture following industry-standard development practices.
 
 ⸻
 
