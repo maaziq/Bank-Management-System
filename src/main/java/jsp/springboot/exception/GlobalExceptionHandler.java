@@ -35,7 +35,7 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
 		return new ResponseEntity<ResponseStructure<String>>(res, HttpStatus.NOT_FOUND);
 	}
 	
-	
+	@ExceptionHandler(IlligleExpressionException.class)
 	public ResponseEntity<ResponseStructure<String>> handleIEE(IlligleExpressionException exception){
 		
 		ResponseStructure<String> res = new ResponseStructure<String>();

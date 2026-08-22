@@ -10,7 +10,7 @@ This project demonstrates the implementation of Spring Boot, Spring Data JPA, Hi
 
 ⸻
 
-Features
+Features :––
 
 Bank Management
 
